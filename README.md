@@ -1,6 +1,5 @@
-<!-- BANNER -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:171522,40:514078,75:9B8AFB,100:E6CFFF&text=Clara%20Amazonas&fontColor=F4ECFF&fontSize=52&fontAlignY=42&desc=estudante%20de%20sistemas%20de%20informa%C3%A7%C3%A3o%20%E2%9C%A6&descSize=15&descAlignY=62&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:171522,50:514078,100:9B8AFB&text=Clara%20Amazonas&fontColor=F4ECFF&fontSize=48&fontAlignY=45&desc=estudante%20de%20sistemas%20de%20informa%C3%A7%C3%A3o&descSize=14&descAlignY=65&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -16,7 +15,7 @@
 <tr>
 <td width="58%" valign="top">
 
-## ✦ um pouco sobre mim
+<h2 style="color:#C6A7FF;">✦ um pouco sobre mim</h2>
 
 Oi! Sou a Clara, atualmente estou cursando o 4° período de **Sistemas de Informação na PUCPR**.
 
@@ -25,7 +24,7 @@ Por aqui, reúno projetos acadêmicos, aplicações e experiências com diferent
 
 ---
 
-## ⌘ ferramentas que utilizo
+<h2 style="color:#C6A7FF;">⌘ ferramentas que utilizo</h2>
 
 <table>
 <tr>
@@ -58,13 +57,13 @@ Por aqui, reúno projetos acadêmicos, aplicações e experiências com diferent
 
 ---
 
-## ▣ projetos selecionados
+<h2 style="color:#C6A7FF;">▣ projetos selecionados</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📚 Sistema de Gestão de Biblioteca
+<h3 style="color:#E6CFFF;">📖 Sistema de Gestão de Biblioteca</h3>
 
 Aplicação em Java desenvolvida para praticar organização de código e conceitos de orientação a objetos.
 
@@ -73,14 +72,14 @@ Aplicação em Java desenvolvida para praticar organização de código e concei
 - Padrão DAO
 - Separação do acesso a dados
 
-`Java` `POO` `DAO`
+<code style="background:#2A2340;color:#E6CFFF;padding:2px 6px;border-radius:6px;">Java</code> <code style="background:#2A2340;color:#E6CFFF;padding:2px 6px;border-radius:6px;">POO</code> <code style="background:#2A2340;color:#E6CFFF;padding:2px 6px;border-radius:6px;">DAO</code>
 
 [↗ acessar repositório](https://github.com/claraamz/sistema-biblioteca-universitaria)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 CineLog
+<h3 style="color:#E6CFFF;">🎞️ CineLog</h3>
 
 Projeto em equipe para explorar um catálogo de filmes e suas funcionalidades.
 
@@ -89,7 +88,7 @@ Projeto em equipe para explorar um catálogo de filmes e suas funcionalidades.
 - Detalhes e curiosidades
 - Avaliações e comentários
 
-`JavaScript` `HTML` `CSS`
+<code style="background:#2A2340;color:#E6CFFF;padding:2px 6px;border-radius:6px;">JavaScript</code> <code style="background:#2A2340;color:#E6CFFF;padding:2px 6px;border-radius:6px;">HTML</code> <code style="background:#2A2340;color:#E6CFFF;padding:2px 6px;border-radius:6px;">CSS</code>
 
 [↗ acessar repositório](https://github.com/Geovannayahweh/CineLog)
 
@@ -98,7 +97,7 @@ Projeto em equipe para explorar um catálogo de filmes e suas funcionalidades.
 <tr>
 <td width="50%" valign="top">
 
-### 🐾 PetLife
+<h3 style="color:#E6CFFF;">🐾 PetLife</h3>
 
 Aplicação web para gerenciar informações de usuários, pets e registros diários.
 
@@ -107,12 +106,12 @@ Aplicação web para gerenciar informações de usuários, pets e registros diá
 - Templates com Jinja
 - Banco de dados MySQL e autenticação
 
-`Python` `FastAPI` `Jinja` `MySQL`
+<code style="background:#2A2340;color:#E6CFFF;padding:2px 6px;border-radius:6px;">Python</code> <code style="background:#2A2340;color:#E6CFFF;padding:2px 6px;border-radius:6px;">FastAPI</code> <code style="background:#2A2340;color:#E6CFFF;padding:2px 6px;border-radius:6px;">Jinja</code> <code style="background:#2A2340;color:#E6CFFF;padding:2px 6px;border-radius:6px;">MySQL</code>
 
 </td>
 <td width="50%" valign="top">
 
-### 🐍 Snake
+<h3 style="color:#E6CFFF;">🐍 Snake</h3>
 
 Projeto de jogo desenvolvido com p5.js, explorando lógica de programação e interação visual.
 
@@ -121,7 +120,7 @@ Projeto de jogo desenvolvido com p5.js, explorando lógica de programação e in
 - Organização da aplicação
 - Desenvolvimento com JavaScript
 
-`JavaScript` `p5.js`
+<code style="background:#2A2340;color:#E6CFFF;padding:2px 6px;border-radius:6px;">JavaScript</code> <code style="background:#2A2340;color:#E6CFFF;padding:2px 6px;border-radius:6px;">p5.js</code>
 
 </td>
 </tr>
@@ -129,10 +128,9 @@ Projeto de jogo desenvolvido com p5.js, explorando lógica de programação e in
 
 ---
 
-## ◌ minha atividade no GitHub
+<h2 style="color:#C6A7FF;">◌ minha atividade no GitHub</h2>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=claraamz&show_icons=true&hide_border=true&bg_color=171522&title_color=C6A7FF&icon_color=B9A0FF&text_color=E4DDEF&rank_icon=github" alt="Estatísticas do GitHub" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claraamz&layout=compact&hide_border=true&bg_color=171522&title_color=C6A7FF&text_color=E4DDEF" alt="Linguagens dos repositórios" />
 </p>
-
