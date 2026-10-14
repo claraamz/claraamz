@@ -90,7 +90,7 @@ Projeto em equipe para explorar um catálogo de filmes e suas funcionalidades.
 
 <code style="background:#2A2340;color:#E6CFFF;padding:2px 6px;border-radius:6px;">JavaScript</code> <code style="background:#2A2340;color:#E6CFFF;padding:2px 6px;border-radius:6px;">HTML</code> <code style="background:#2A2340;color:#E6CFFF;padding:2px 6px;border-radius:6px;">CSS</code>
 
-[↗ acessar repositório](https://github.com/Geovannayahweh/CineLog)
+[↗ acessar repositório](https://github.com/claraamz/Cinelog)
 
 </td>
 </tr>
@@ -108,6 +108,8 @@ Aplicação web para gerenciar informações de usuários, pets e registros diá
 
 <code style="background:#2A2340;color:#E6CFFF;padding:2px 6px;border-radius:6px;">Python</code> <code style="background:#2A2340;color:#E6CFFF;padding:2px 6px;border-radius:6px;">FastAPI</code> <code style="background:#2A2340;color:#E6CFFF;padding:2px 6px;border-radius:6px;">Jinja</code> <code style="background:#2A2340;color:#E6CFFF;padding:2px 6px;border-radius:6px;">MySQL</code>
 
+[↗ acessar repositório](https://github.com/claraamz/Petlife)
+
 </td>
 <td width="50%" valign="top">
 
@@ -121,6 +123,8 @@ Projeto de jogo desenvolvido com p5.js, explorando lógica de programação e in
 - Desenvolvimento com JavaScript
 
 <code style="background:#2A2340;color:#E6CFFF;padding:2px 6px;border-radius:6px;">JavaScript</code> <code style="background:#2A2340;color:#E6CFFF;padding:2px 6px;border-radius:6px;">p5.js</code>
+
+[↗ acessar repositório](https://github.com/claraamz/snake-game)
 
 </td>
 </tr>
